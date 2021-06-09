@@ -1,14 +1,28 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
-date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+title: 'Research Skills Curriculum'
+subtitle: ''
+date: 2021-06-09 00:00:00
+description: Designing a longitudinal, competency-based research skills curriculum for the Yale Physician Associate Program.
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
 
-## Demo content
+## Overview
+
+The physician associate profession has a long-documented lack of a scholarship culture. By and large, PAs practice, they teach &ndash; but they usually do not publish. The latest [PAEA faculty report](https://paeaonline.org/resources/public-resources/research-reports/faculty-directors-survey-and-reports) indicats fewer than half of PA faculty surveyed had ever authored a single paper. The Physician Associate Program at Yale is committed to producing PA leaders and competent researchers, primarily achieved through the completion of a yearlong research course and thesis project. 
+
+However, baseline assessments of incoming cohorts each year reiterate that students are not equipped with the skills to successfully take on a thesis: most recently, 0% of students reported confidence in their ability to search the literature and 10% reported confidence using biomedical literature databases. 
+
+In my role as library liaison to the PA programs, I partnered with faculty to develop and deliver a research skills curriculum that spans more than a year, incorporates a variety of pedagogical styles, and has been delivered synchronously, asynchronously, in-person, and online.
+
+## Design and development
+
+PA programs are compact &ndash; 2-2.5 years &ndash; so time in the classroom is scarce. The library was allotted three 90 minute class periods. 
+
+I started by identifing the key skills needed to successfully complete a thesis based on my experience as an expert literature searcher, the thesis project handbook, and faculty consultation. After becoming acquainted with the previous models for research skills instruction and learning more about what types of information and skills students learn when throughout the didactic and clinical curricula, I designed the following timeline:
+
+<img width="885" alt="Screen Shot 2021-06-09 at 4 54 13 PM" src="https://user-images.githubusercontent.com/22897290/121427985-53bfc280-c943-11eb-9df4-01a4bcd31991.png">
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
