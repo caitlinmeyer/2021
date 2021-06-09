@@ -26,11 +26,27 @@ I started by identifing the key skills needed to successfully complete a thesis 
 
 <img width="885" alt="Screen Shot 2021-06-09 at 4 54 13 PM" src="https://user-images.githubusercontent.com/22897290/121427985-53bfc280-c943-11eb-9df4-01a4bcd31991.png">
 
-### Research I
-* Learning objectives
-  * LO 1
-  * LO 2
-  * LO 3
+Here is an example of prework assigned for the Research II session, "Literature searching to support patient care". 
+
+* Session learning objectives
+  * Write a well-built clinical question and transform it into a search strategy
+  * Utilize different strategies and tools for highly precise literature searching
+  * Compare and contrast searching the primary literature vs evidence-based practice tools
+  * Critically engage with search results
+* Prework, completed in Qualtrics survey ahead of class
+  * Review PICO and the well-built clinical question with introductory video
+  * Read a brief patient scenario and produce PICO and well-built clinical question
+  * Match clinical question types to question type definitions 
+  * Sort nine example questions into the proper categories
+  * Identify what type of question student wrote in previous activity
+  * Identify article type(s) appropriate to answer indicated question type
+  * Let me know how many evidence-based practice tools students have used
+
+<iframe src="https://yalesurvey.ca1.qualtrics.com/jfe/form/SV_2fprjhILckK76dw" height="800px" width="600px"></iframe>
+
+
+  
+
 * [Course outline]
 * Materials created
   * Material example 1
