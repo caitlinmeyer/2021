@@ -8,6 +8,8 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ![](/images/demo/demo-landscape.jpg)
 
+**Tools:** Camtasia, Adobe Illustrator, Google Forms
+
 ## Overview
 
 The physician associate profession has a long-documented lack of a scholarship culture. By and large, PAs practice, they teach &ndash; but they usually do not publish. The latest [PAEA faculty report](https://paeaonline.org/resources/public-resources/research-reports/faculty-directors-survey-and-reports) indicats fewer than half of PA faculty surveyed had ever authored a single paper. The Physician Associate Program at Yale is committed to producing PA leaders and competent researchers, primarily achieved through the completion of a yearlong research course and thesis project. 
@@ -24,7 +26,29 @@ I started by identifing the key skills needed to successfully complete a thesis 
 
 <img width="885" alt="Screen Shot 2021-06-09 at 4 54 13 PM" src="https://user-images.githubusercontent.com/22897290/121427985-53bfc280-c943-11eb-9df4-01a4bcd31991.png">
 
+### Research I
+* Learning objectives
+  * LO 1
+  * LO 2
+  * LO 3
+* [Course outline]
+* Materials created
+  * Material example 1
+  * Material example 2
 
+### Research II
+
+
+### Research III
+
+
+### Managing Citations with EndNote
+
+
+### Thesis Proposal Workshops
+
+
+### Thesis Workshops
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
