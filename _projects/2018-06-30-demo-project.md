@@ -18,11 +18,13 @@ In my role as library liaison to the PA programs, I partnered with faculty to de
 
 ## Design and development
 
-PA programs are compact &ndash; 2-2.5 years &ndash; so time in the classroom is scarce. The library was allotted three 90 minute class periods. 
+PA programs are compact &ndash; 2-2.5 years &ndash; so time in the classroom is scarce. 
 
 I started by identifing the key skills needed to successfully complete a thesis based on my experience as an expert literature searcher, the thesis project handbook, and faculty consultation. After becoming acquainted with the previous models for research skills instruction and learning more about what types of information and skills students learn when throughout the didactic and clinical curricula, I designed the following timeline:
 
 <img width="885" alt="Screen Shot 2021-06-09 at 4 54 13 PM" src="https://user-images.githubusercontent.com/22897290/121427985-53bfc280-c943-11eb-9df4-01a4bcd31991.png">
+
+
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
@@ -118,3 +120,8 @@ We've packed this theme with powerful features to show off your work.
 Why not put them to use on your new portfolio?
 
 <a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+
+# Just wanna see formatting
+## h2
+### h3
+#### h4
