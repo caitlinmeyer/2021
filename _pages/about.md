@@ -21,7 +21,7 @@ You can view my [LinkedIn profile](https://www.linkedin.com/in/caitlinemeyer/) f
 Cushing/Whitney Medical Library<BR>
 Yale University<BR>
 
-I lead the medical library's instruction program. This involves strategic planning for the workshop program, creating online tutorials, consulting on instruction-related matters for my colleagues, and running the Instruction Community of Practice group. I work closely with the faculty and students of both physician associate programs, teaching ressearch skills in the curriculum and supporting student thesis projects. <BR><BR>
+I lead the medical library's instruction program. This involves strategic planning for the workshop program, creating online tutorials, consulting on instruction-related matters for my colleagues, and running the Instruction Community of Practice group. I work closely with the faculty and students of both physician associate programs, teaching research skills in the curriculum and supporting student thesis projects. <BR><BR>
 
 <small>2016 - 2017</small><BR>
 **Instructional Design Assistant**<BR>
