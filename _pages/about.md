@@ -1,14 +1,14 @@
 ---
-title: About Me
-subtitle: Caitlin Meyer Wolken is an instructional designer and librarian in Connecticut.
+title: Nice to meet you!
+subtitle: Read on to learn a bit about me, my background, and my work experience.
 featured_image: /images/demo/about.jpg
 ---
 
-## Nice to meet you!
+## About Me
 I am an experienced instructor and instructional designer with a background in librarianship and communications. I’ve taught audiences from high school and undergraduate students to physicians and university faculty and am well-versed in creating engaging learning experiences in online, in person, and
 hybrid environments. I learn technology quickly, am detail-oriented, and am enthusiastic about taking on new challenges. 
 
-Outside of work, I'm a self-taught illustrator, printmaker, and quilter. I'm big into hiking, checking out [new breweries](https://drive.google.com/open?id=1HfRg6F2EaqD8rMgdYwJWRZ6fwvU&usp=sharing), going to bluegrass festivals, and playing competetive pinball [(poorly)](http://crap.league.papa.org/playerInfo/113). 
+Outside of work, I'm a self-taught illustrator, printmaker, and quilter. I'm big into hiking, camping, checking out [new breweries](https://drive.google.com/open?id=1HfRg6F2EaqD8rMgdYwJWRZ6fwvU&usp=sharing), going to bluegrass festivals, and playing competetive pinball [(poorly)](http://crap.league.papa.org/playerInfo/113). 
  
 I live in Connecticut with my husband, our dog, and an unruly vegetable garden. 
 
