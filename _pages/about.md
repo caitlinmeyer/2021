@@ -10,12 +10,12 @@ featured_image: /images/demo/about.jpg
 ## Selected Experience
 You can view my [LinkedIn profile](https://www.linkedin.com/in/caitlinemeyer/) or full resume for more.
 
-<small>2017 - present</small> 
-**Research and Education Librarian &amp; Coordinator of Instruction**
-Cushing/Whitney Medical Library
-Yale University
+<small>2017 - present</small> <BR>
+**Research and Education Librarian &amp; Coordinator of Instruction**<BR>
+Cushing/Whitney Medical Library<BR>
+Yale University<BR><BR>
 
-I lead the medical library's instruction program. This involves strategic planning for the workshop program, creating online tutorials, consulting on instruction-related matters for my colleagues, and running the Instruction Community of Practice group. I work closely with the faculty and students of both physician associate programs, teaching ressearch skills in the curriculum and supporting student thesis projects. 
+I lead the medical library's instruction program. This involves strategic planning for the workshop program, creating online tutorials, consulting on instruction-related matters for my colleagues, and running the Instruction Community of Practice group. I work closely with the faculty and students of both physician associate programs, teaching ressearch skills in the curriculum and supporting student thesis projects. <BR><BR>
 
 <small>2016 - 2017</small> 
 **Instructional Design Assistant**
