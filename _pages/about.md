@@ -13,21 +13,21 @@ You can view my [LinkedIn profile](https://www.linkedin.com/in/caitlinemeyer/) o
 <small>2017 - present</small> <BR>
 **Research and Education Librarian &amp; Coordinator of Instruction**<BR>
 Cushing/Whitney Medical Library<BR>
-Yale University<BR><BR>
+Yale University<BR>
 
 I lead the medical library's instruction program. This involves strategic planning for the workshop program, creating online tutorials, consulting on instruction-related matters for my colleagues, and running the Instruction Community of Practice group. I work closely with the faculty and students of both physician associate programs, teaching ressearch skills in the curriculum and supporting student thesis projects. <BR><BR>
 
 <small>2016 - 2017</small><BR>
 **Instructional Design Assistant**<BR>
 Darling Biomedical Library<BR>
-UCLA<BR><BR>
+UCLA<BR>
 
 I worked on a "by students, for students" team of instructional designers developing tutorials aimed at helping undergraduate students develop writing and research skills. We storyboarded and built online learning objects, tested them, and deployed them on the [team's site](https://uclalibrary.github.io/research-tips) and in the university's LMS. <BR><BR>
 
 <small>2015 - 2017</small> <BR>
 **Teaching Assistant**<BR>
 Department of Communication<BR>
-UCLA<BR><BR>
+UCLA<BR>
 
 I taught foundational communications concepts to 75 students per quarter and managed course assignments and assessments. 
   
