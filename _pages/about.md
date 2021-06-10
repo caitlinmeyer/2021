@@ -24,10 +24,30 @@ We've packed Personal full of powerful features to help showcase your work:
 * Works with GitHub Pages
 * Updated and supported by the developers
 
-## Work Experience
+## Experience
 
+<small>2017 - present</small>
+**Research and Education Librarian** and **Coordinator of Instruction**
+Cushing/Whitney Medical Library
+Yale University
 
-## Training
+I lead the medical library's instruction program. This involves strategic planning for the workshop program, creating online tutorials, consulting on instruction-related matters for my colleagues, and running the Instruction Community of Practice group. I work closely with the faculty and students of both physician associate programs, teaching ressearch skills in the curriculum and supporting student thesis projects. 
+
+<small>2016 - 2017</small>
+**Instructional Design Assistant**
+Darling Biomedical Library
+UCLA
+
+I worked on a "by students, for students" team of instructional designers developing tutorials aimed at helping undergraduate students develop writing and research skills. We storyboarded and built online learning objects, tested them, and deployed them on the team's site and in the university's LMS.  
+
+<small>2015 - 2017</small>
+**Teaching Assistant**
+Department of Communication
+UCLA
+
+I taught foundational communications concepts to 75 students per quarter and managed course assignments and assessments. 
+
+## Education
 
 Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
 
