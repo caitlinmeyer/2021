@@ -50,7 +50,7 @@ I taught foundational communications concepts to 75 students per quarter and man
   Capstone title: "Toward instructional design as core MLIS curriculum"<BR>
   [Culminating portfolio](http://bit.ly/mlis-portfolio)<BR><BR>
   
-<small>2018</small> <BR>
+<small>2013</small> <BR>
 **Vanderbilt University** | Nashville, TN<BR>
   Bachelor of Arts, Communication Studies<BR>
   
