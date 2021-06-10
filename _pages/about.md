@@ -39,9 +39,13 @@ I taught foundational communications concepts to 75 students per quarter and man
   [Program portfolio](https://caitlinmeyer.github.io/idt-portfolio/)
   
 2017
+
   **UCLA** | Los Angeles, CA
+  
   Master of Library and Information Science
+  
   Capstone title: "Toward instructional design as core MLIS curriculum"
+  
   [Culminating portfolio](http://bit.ly/mlis-portfolio)
   
 2013
