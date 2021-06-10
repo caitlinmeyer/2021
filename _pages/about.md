@@ -1,14 +1,20 @@
 ---
-title: About me
-subtitle: Caitlin Meyer is an instructional designer and librarian in Connecticut.
+title: About Me
+subtitle: Caitlin Meyer Wolken is an instructional designer and librarian in Connecticut.
 featured_image: /images/demo/about.jpg
 ---
 
 ## About Me
+I am an experienced instructor and instructional designer with a background in librarianship and communications. I’ve taught audiences from high school and undergraduate students to physicians and university faculty and am well-versed in creating engaging learning experiences in online, in person, and
+hybrid environments. I learn technology quickly, am detail-oriented, and am enthusiastic about taking on new challenges. 
+
+Outside of work, I'm a self-taught illustrator, printmaker, and quilter. I'm currently working on hiking all [825 miles of blue-blazed trails in Connecticut](https://www.ctwoodlands.org/blue-blazed-hiking-trails), checking out [new breweries](https://drive.google.com/open?id=1HfRg6F2EaqD8rMgdYwJWRZ6fwvU&usp=sharing), and sometimes [both](https://caitlinmeyer.github.io/brewblazedtrails/)! I also play competitive pinball <a href="http://crap.league.papa.org/playerInfo/113">(poorly)</a>. 
+ 
+I live in Connecticut with my husband, our dog, and an unruly vegetable garden. 
 
 
 ## Selected Experience
-You can view my [LinkedIn profile](https://www.linkedin.com/in/caitlinemeyer/) or full resume for more.
+You can view my [LinkedIn profile](https://www.linkedin.com/in/caitlinemeyer/) for more details.
 
 <small>2017 - present</small> <BR>
 **Research and Education Librarian &amp; Coordinator of Instruction**<BR>
