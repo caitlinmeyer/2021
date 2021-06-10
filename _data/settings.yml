@@ -68,7 +68,7 @@ color_settings:
   text_light_color: '#62555A'
   accent_color: '#109da3'
   border_color: '#2E282A'
-  hero_background_color: '#165e2f'
+  hero_background_color: '#6ab044'
   hero_text_color: '#ffffff'
   error_color: '#E4572E'
 
