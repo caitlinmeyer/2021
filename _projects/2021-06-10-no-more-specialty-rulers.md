@@ -3,7 +3,7 @@ title: 'No More Specialty Rulers: Creating custom quilting shapes with Adobe Ill
 subtitle: 'Tutorial video series built with Camtasia and Adobe Illustrator'
 date: 2021-06-09 00:00:00
 description: Helping tech-savvy quilters create custom printable fabric cutting templates instead of buying additional rulers. 
-featured_image: '/images/projects/nmsr.png'
+featured_image: '/images/projects/nmsr.jpg'
 ---
 
 
