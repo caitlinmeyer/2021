@@ -5,6 +5,6 @@ description:
 featured_image: 
 ---
 
-You can also [email me directly](caitlin.e.meyer@gmail.com). 
+You can also email me directly: <caitlin.e.meyer@gmail.com>. 
 
 {% include contact-form.html %}
