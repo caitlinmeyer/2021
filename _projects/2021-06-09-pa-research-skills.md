@@ -3,7 +3,7 @@ title: 'Longitudinal Research Skills Curriculum'
 subtitle: 'Instruction series deployed in person, over Zoom, and in Canvas.'
 date: 2021-06-09 00:00:00
 description: Helping physician associate students develop the skills needed to successfully complete their theses. 
-featured_image: '/images/projects/pa.jpg'
+featured_image: '/images/projects/PA.jpg'
 ---
 
 ## Overview
