@@ -1,8 +1,8 @@
 ---
-title: Contact
-subtitle: Personal comes with a built-in contact form that's free and easy to set up.
-description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/demo/contact.jpg
+title: Say hi!
+subtitle: I'm always open to meeting new potential collaborators. Shoot me a message below or you can [email me directly](caitlin.e.meyer@gmail.com). 
+description: 
+featured_image: 
 ---
 
 {% include contact-form.html %}
