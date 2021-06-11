@@ -4,9 +4,7 @@ subtitle: Read on to learn a bit about me, my background, and my work experience
 featured_image: /images/demo/about.jpg
 ---
 
-## About Me
-I am an experienced instructor and instructional designer with a background in librarianship and communications. I’ve taught audiences from high school and undergraduate students to physicians and university faculty and am well-versed in creating engaging learning experiences in online, in person, and
-hybrid environments. I learn technology quickly, am detail-oriented, and am enthusiastic about taking on new challenges. 
+I am an experienced instructor and instructional designer with a background in librarianship and communications. I’ve taught audiences from high school and undergraduate students to physicians and university faculty and am well-versed in creating engaging learning experiences in online, in person, and hybrid environments. I learn technology quickly, am detail-oriented, and am enthusiastic about taking on new challenges. 
 
 Outside of work, I'm a self-taught illustrator, printmaker, and quilter. I'm big into hiking, camping, checking out [new breweries](https://drive.google.com/open?id=1HfRg6F2EaqD8rMgdYwJWRZ6fwvU&usp=sharing), going to bluegrass festivals, and playing competetive pinball [(poorly)](http://crap.league.papa.org/playerInfo/113). 
  
@@ -48,7 +46,7 @@ I taught foundational communications concepts to 75 students per quarter and man
   **UCLA** | Los Angeles, CA<BR>
   Master of Library and Information Science<BR>
   Capstone title: "Toward instructional design as core MLIS curriculum"<BR>
-  [Culminating portfolio](http://bit.ly/mlis-portfolio)<BR><BR>
+  [Program portfolio](http://bit.ly/mlis-portfolio)<BR><BR>
   
 <small>2013</small> <BR>
 **Vanderbilt University** | Nashville, TN<BR>
