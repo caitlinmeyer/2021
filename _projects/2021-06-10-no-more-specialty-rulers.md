@@ -51,10 +51,11 @@ Graphics were created in Illustrator and animated in Camtasia. I created a lot o
 
 
 ## The final products
+<iframe src="https://player.vimeo.com/video/560509079" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/560509079?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="No More Specialty Rulers: Hexies"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe src="https://player.vimeo.com/video/561499947" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/561499947?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="No More Specialty Rulers: Inset circles and curves"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe src="https://player.vimeo.com/video/561423491" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/561423491?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="No More Specialty Rulers: Advanced shapes and configuring multi-page templates"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 
