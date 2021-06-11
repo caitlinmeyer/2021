@@ -3,8 +3,9 @@ title: 'No More Specialty Rulers: Creating custom quilting shapes with Adobe Ill
 subtitle: 'Tutorial video series built with Camtasia and Adobe Illustrator'
 date: 2021-06-09 00:00:00
 description: Helping tech-savvy quilters create custom printable fabric cutting templates instead of buying additional rulers. 
-featured_image: '/images/projects/nmsr.jpg'
+featured_image: '/images/projects/nmsr.png'
 ---
+
 
 ## Overview
 A common frustration in the online modern quilting community is the tendency for projects to require the purchase of additional specialty rulers in order to properly create the fabric shapes. There are hundreds of single-use tools for various shapes and block types available and it's space and cost-prohibitive to get new tools for every project. 
@@ -47,8 +48,7 @@ Audio and video were recorded through and edited in Camtasia. Captions were adde
 
 Graphics were created in Illustrator and animated in Camtasia. I created a lot of the graphics, but downloaded some icons for the first video from the Noun Project. I went for a modern and clean design aesthetic, choosing three colors, Avenir Next Condensed in all capital letters with a yellow highlighter-like background as a title font, and Source Sans in a bold weight for other type. 
 
-![Screen Shot 2021-06-10 at 6 05 39 PM](https://user-images.githubusercontent.com/22897290/121603256-78d13580-ca16-11eb-8c70-c89938365589.png)
-
+<img width="1016" alt="Screen Shot 2021-06-11 at 7 09 46 AM" src="https://user-images.githubusercontent.com/22897290/121677551-0303b300-ca84-11eb-950c-ae448ad80252.png">
 
 ## The final products
 <iframe src="https://player.vimeo.com/video/560509079" width="640" height="360" frameborder="0" allowfullscreen></iframe>
