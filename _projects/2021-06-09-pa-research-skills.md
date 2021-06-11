@@ -48,6 +48,45 @@ Each session was designed a little differently based on duration. Most included 
 Here are the slides for the Research II session: 
 
 <div class="gallery" data-columns="1">
+<img src="https://user-images.githubusercontent.com/22897290/121724461-ec764f80-cab5-11eb-95b5-6f2d9a367139.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724465-ed0ee600-cab5-11eb-8672-757baa8a9b95.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724467-ed0ee600-cab5-11eb-8e9e-09387adb93de.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724469-eda77c80-cab5-11eb-926e-80edc4d3b0b2.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724470-ee401300-cab5-11eb-9603-f2b655b34002.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724471-ee401300-cab5-11eb-9b8a-a606dbba2d9d.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724473-ee401300-cab5-11eb-8f09-75f879bca5c2.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724474-eed8a980-cab5-11eb-8004-571ff765afe0.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724475-eed8a980-cab5-11eb-900f-b4f02f219123.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724476-eed8a980-cab5-11eb-915c-90e668b407cb.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724477-ef714000-cab5-11eb-8612-5e7f45876342.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724478-ef714000-cab5-11eb-8539-41da1db8620d.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724480-ef714000-cab5-11eb-8534-6b5951cbd523.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724481-ef714000-cab5-11eb-8e4f-b17545b526ac.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724484-f009d680-cab5-11eb-8307-5a77d9f497d0.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724485-f009d680-cab5-11eb-8de0-aa9d44edb378.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724487-f0a26d00-cab5-11eb-8d0e-49ddd6a7da8b.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724489-f0a26d00-cab5-11eb-95b8-3bd8b7eb4b9c.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724491-f13b0380-cab5-11eb-812e-a2d65201841c.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724493-f13b0380-cab5-11eb-9c9e-7d49d2afd328.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724494-f1d39a00-cab5-11eb-88c2-f400727a748e.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724495-f1d39a00-cab5-11eb-9c04-1fd7886f5b41.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724496-f1d39a00-cab5-11eb-9def-970a0f8a0a22.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724498-f26c3080-cab5-11eb-91b8-71b4247bc408.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724499-f26c3080-cab5-11eb-84b6-a2763a5cb81d.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724500-f26c3080-cab5-11eb-8b86-6636d5cb62fa.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724502-f304c700-cab5-11eb-8d49-dd224c65a8b1.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724507-f39d5d80-cab5-11eb-823e-a830e24e50ab.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724509-f39d5d80-cab5-11eb-8d9a-f62db2203fc7.jpg">
+<img src="https://user-images.githubusercontent.com/22897290/121724510-f39d5d80-cab5-11eb-8ec9-a16e619ec8ce.jpg">
+	</div>
+
+	
+Workshops included a lot of guided work time, where I would suggest tools and tasks to explore during an indicated period and I would be available to help should any issues arise.
+
+Here are the slides for the Thesis Proposal Workshops, where groups of 6-8 students come for two hours to scope out the literature on their potential thesis topics:
+
+
+<div class="gallery" data-columns="1">
 	<img src="https://user-images.githubusercontent.com/22897290/121723873-154a1500-cab5-11eb-8321-98cf588773ce.jpg">
 	<img src="(https://user-images.githubusercontent.com/22897290/121723975-327ee380-cab5-11eb-88fa-30051e229a4c.jpg">
 <img src="https://user-images.githubusercontent.com/22897290/121723977-33177a00-cab5-11eb-962f-524862718fd4.jpg">
@@ -65,13 +104,6 @@ Here are the slides for the Research II session:
 <img src="https://user-images.githubusercontent.com/22897290/121723998-36126a80-cab5-11eb-85ce-a0b035121c8b.jpg">
 <img src="https://user-images.githubusercontent.com/22897290/121724001-36126a80-cab5-11eb-9edb-105e77c1f4ef.jpg">	
 	</div>
-	
-Workshops included a lot of guided work time, where I would suggest tools and tasks to explore during an indicated period and I would be available to help should any issues arise.
-
-Here are the slides for the Thesis Proposal Workshops, where groups of 6-8 students come for two hours to scope out the literature on their potential thesis topics:
-
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS5maXpj86VvIbjaZdrpG6E-9hVDxL0G2Ga96wwrDBqgCK_slKRnP3Jh3kbDd0F9SYKEbx2rEv5vXQz/embed?start=false&loop=false&delayms=3000" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ## Outcomes
 Students are surveyed frequently throughout the program and the library sessions are consistently highly rated, typically averaging 4.5+/5. It's too early to tell if more PA students will publish as a result of this collaborative effort (of which the library instruction is only one part), but 1 in 4 students in the current cohort are pursuing publishable original research for their theses. My faculty collaborator and I presented this curriculum at the 2021 Yale Medical Education Day conference and have a forthcoming workshop at the PAEA Education Forum.
