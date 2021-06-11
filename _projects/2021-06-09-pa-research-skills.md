@@ -3,7 +3,7 @@ title: 'Longitudinal Research Skills Curriculum'
 subtitle: 'Instruction series deployed in person, over Zoom, and in Canvas.'
 date: 2021-06-09 00:00:00
 description: Helping physician associate students develop the skills needed to successfully complete their theses. 
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/projects/pa.jpg'
 ---
 
 ## Overview
@@ -57,6 +57,6 @@ Here are the slides for the Thesis Proposal Workshops, where groups of 6-8 stude
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS5maXpj86VvIbjaZdrpG6E-9hVDxL0G2Ga96wwrDBqgCK_slKRnP3Jh3kbDd0F9SYKEbx2rEv5vXQz/embed?start=false&loop=false&delayms=3000" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-## Assessment
-Students are surveyed frequently throughout the program and the library sessions are consistently highly rated, typically averaging 4.5+/5. It's too early to tell if more PA students will publish as a result of this collaborative effort of which the library instruction is only one part, but 1 in 4 students in the current cohort are pursuing publishable original research for their theses. 
+## Outcomes
+Students are surveyed frequently throughout the program and the library sessions are consistently highly rated, typically averaging 4.5+/5. It's too early to tell if more PA students will publish as a result of this collaborative effort (of which the library instruction is only one part), but 1 in 4 students in the current cohort are pursuing publishable original research for their theses. My faculty collaborator and I presented this curriculum at the 2021 Yale Medical Education Day conference and have a forthcoming workshop at the PAEA Education Forum.
 
