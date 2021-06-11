@@ -47,11 +47,15 @@ Each session was designed a little differently based on duration. Most included 
 
 Here are the slides for the Research II session: 
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vReMtmn0E_4gFjdrxdiR9BHfxyXYxXY5r_Hohn9pF9WsWyALfFMbaKwOU2-wsnVa37PVusHOWuIV6Dn/embed?start=false&loop=false&delayms=3000" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vReMtmn0E_4gFjdrxdiR9BHfxyXYxXY5r_Hohn9pF9WsWyALfFMbaKwOU2-wsnVa37PVusHOWuIV6Dn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Workshops included a lot of guided work time, where I would suggest tools and tasks to explore during an indicated period and I would be available to help should any issues arise.
 
 Here are the slides for the Thesis Proposal Workshops, where groups of 6-8 students come for two hours to scope out the literature on their potential thesis topics:
+
+<iframe src="hhttps://docs.google.com/presentation/d/e/2PACX-1vS5maXpj86VvIbjaZdrpG6E-9hVDxL0G2Ga96wwrDBqgCK_slKRnP3Jh3kbDd0F9SYKEbx2rEv5vXQz/embed?start=false&loop=false&delayms=300" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS5maXpj86VvIbjaZdrpG6E-9hVDxL0G2Ga96wwrDBqgCK_slKRnP3Jh3kbDd0F9SYKEbx2rEv5vXQz/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
