@@ -1,18 +1,16 @@
 ---
-title: 'Research Skills Curriculum'
-subtitle: ''
+title: 'Longitudinal Research Skills Curriculum'
+subtitle: 'Instruction series deployed in person, over Zoom, and in Canvas.'
 date: 2021-06-09 00:00:00
-description: Designing a longitudinal, competency-based research skills curriculum for the Yale Physician Associate Program.
+description: Helping physician associate students develop the skills needed to successfully complete their theses. 
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
 
-**Tools:** Camtasia, Adobe Illustrator, Google Forms
-
 ## Overview
 
-The physician associate profession has a long-documented lack of a scholarship culture. By and large, PAs practice, they teach &ndash; but they usually do not publish. The latest [PAEA faculty report](https://paeaonline.org/resources/public-resources/research-reports/faculty-directors-survey-and-reports) indicats fewer than half of PA faculty surveyed had ever authored a single paper. The Physician Associate Program at Yale is committed to producing PA leaders and competent researchers, primarily achieved through the completion of a yearlong research course and thesis project. 
+The physician associate profession has a long-documented lack of a scholarship culture. By and large, PAs practice, they teach &ndash; but they usually do not publish. The latest [PAEA faculty report](https://paeaonline.org/resources/public-resources/research-reports/faculty-directors-survey-and-reports) indicates fewer than half of PA faculty surveyed had ever authored a single paper. The Physician Associate Program at Yale is committed to producing PA leaders and competent researchers, primarily achieved through the completion of a yearlong research course and thesis project. 
 
 However, baseline assessments of incoming cohorts each year reiterate that students are not equipped with the skills to successfully take on a thesis: most recently, 0% of students reported confidence in their ability to search the literature and 10% reported confidence using biomedical literature databases. 
 
@@ -22,9 +20,13 @@ In my role as library liaison to the PA programs, I partnered with faculty to de
 
 PA programs are compact &ndash; 2-2.5 years &ndash; so time in the classroom is scarce. 
 
-I started by identifing the key skills needed to successfully complete a thesis based on my experience as an expert literature searcher, the thesis project handbook, and faculty consultation. After becoming acquainted with the previous models for research skills instruction and learning more about what types of information and skills students learn when throughout the didactic and clinical curricula, I designed the following timeline:
+I started by identifing the key skills needed to successfully complete a thesis based on my experience as an expert literature searcher, the thesis project handbook, and faculty consultation. After becoming acquainted with the previous models for research skills library instruction and learning more about what types of information and skills students learn when throughout the didactic and clinical curricula, I designed the following timeline:
 
 <img width="885" alt="Screen Shot 2021-06-09 at 4 54 13 PM" src="https://user-images.githubusercontent.com/22897290/121427985-53bfc280-c943-11eb-9df4-01a4bcd31991.png">
+
+|Session|Objectives|Prework|Session description|
+|-------|----------|--------|-----------------|
+Research I
 
 Here is an example of prework assigned for the Research II session, "Literature searching to support patient care". 
 
@@ -110,11 +112,10 @@ You can throw in some horizontal rules too:
 
 Here's a really neat custom feature we added – galleries:
 
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+<div class="gallery" data-columns="2">
+<iframe src="https://player.vimeo.com/video/264307927" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/417274418" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
 </div>
 
 Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
