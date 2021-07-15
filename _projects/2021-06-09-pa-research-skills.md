@@ -83,27 +83,6 @@ Here are the slides for the Research II session:
 	
 Workshops included a lot of guided work time, where I would suggest tools and tasks to explore during an indicated period and I would be available to help should any issues arise.
 
-Here are the slides for the Thesis Proposal Workshops, where groups of 6-8 students come for two hours to scope out the literature on their potential thesis topics:
-
-
-<div class="gallery" data-columns="1">
-	<img src="https://user-images.githubusercontent.com/22897290/121723873-154a1500-cab5-11eb-8321-98cf588773ce.jpg">
-	<img src="(https://user-images.githubusercontent.com/22897290/121723975-327ee380-cab5-11eb-88fa-30051e229a4c.jpg">
-<img src="https://user-images.githubusercontent.com/22897290/121723977-33177a00-cab5-11eb-962f-524862718fd4.jpg">
-<img src="https://user-images.githubusercontent.com/22897290/121723979-33177a00-cab5-11eb-97e3-a88bef39ff3a.jpg">
-<img src="https://user-images.githubusercontent.com/22897290/121723981-33b01080-cab5-11eb-937c-054d195f7607.jpg">
-<img src="https://user-images.githubusercontent.com/22897290/121723982-3448a700-cab5-11eb-988d-d4581ea1c06f.jpg">
-<img src="https://user-images.githubusercontent.com/22897290/121723983-3448a700-cab5-11eb-97e6-01da9e649a91.jpg">
-<img src="https://user-images.githubusercontent.com/22897290/121723985-34e13d80-cab5-11eb-8ae1-2496851981d3.jpg">
-<img src="https://user-images.githubusercontent.com/22897290/121723987-34e13d80-cab5-11eb-93b4-2297032c5e25.jpg">
-<img src="https://user-images.githubusercontent.com/22897290/121723990-34e13d80-cab5-11eb-80e9-e8b4437e379f.jpg">
-<img src="https://user-images.githubusercontent.com/22897290/121723991-3579d400-cab5-11eb-9001-2deecbe2825b.jpg">
-<img src="https://user-images.githubusercontent.com/22897290/121723992-3579d400-cab5-11eb-8b4d-87f3a5ae06d7.jpg">
-<img src="https://user-images.githubusercontent.com/22897290/121723995-3579d400-cab5-11eb-985f-2210d421d0de.jpg">
-<img src="https://user-images.githubusercontent.com/22897290/121723997-36126a80-cab5-11eb-8952-0897b9a82b78.jpg">
-<img src="https://user-images.githubusercontent.com/22897290/121723998-36126a80-cab5-11eb-85ce-a0b035121c8b.jpg">
-<img src="https://user-images.githubusercontent.com/22897290/121724001-36126a80-cab5-11eb-9edb-105e77c1f4ef.jpg">	
-	</div>
 
 ## Outcomes
 Students are surveyed frequently throughout the program and the library sessions are consistently highly rated, typically averaging 4.5+/5. It's too early to tell if more PA students will publish as a result of this collaborative effort (of which the library instruction is only one part), but 1 in 4 students in the current cohort are pursuing publishable original research for their theses. My faculty collaborator and I presented this curriculum at the 2021 Yale Medical Education Day conference and have a forthcoming workshop at the PAEA Education Forum.
