@@ -1,0 +1,94 @@
+---
+title: 'Video Tutorial Immersion Program'
+subtitle: 'Hybrid, eight-week training program using Canvas and Camtasia' 
+date: 2024-02-29 00:00:00
+description: Guiding library staff through the process of creating a video tutorial. T
+featured_image: '/images/projects/vtip.jpg'
+---
+
+## Overview
+Librarians at Yale teach in various contexts: in the curriculum, in one-off sessions, in library workshops, and, increasingly, through asynchronous online experiences. While demand grows for video tutorials, production capacity across the system was limited. 
+
+## Audience
+All types of library staff were welcome to apply for the VTIP program. Applications included a proposal for a specific video to anchor course concepts. The two iterations of VTIP saw librarians, archivists, and staff from across the system. No technical skills were required to apply so everything was taught at an introductory level and pace.
+
+## Design and deployment
+
+The Video Tutorial Immersion Program was the flagship program of the Digital Tutorials Advisory Group. The competitive program was held synchronously its first year and trialed a hybrid version built in Canvas for year two. 
+
+I designed the overall flow of the program: 
+
+**Learning objectives:**
+By the end of the VTIP program, participants will be able to:
+- Describe various standards and guidelines that inform the tutorial creation process (online pedagogy, accessibility, branding, writing for the web, committee documentation)
+- Identify content that is well-suited for video and develop learning objectives
+- Write an engaging, succinct storyboard and script
+- Record, edit, and clean up audio
+- Create visuals from multiple inputs (screencast, PowerPoint, animations)
+- Create time-stamped closed captions
+- Edit together video, audio and other elements to create a 1-3 minute video
+- Distribute finished videos in accordance with current committee procedures
+
+**Session One: From Idea to Storyboard**
+- Welcome
+- Online pedagogy orientation
+- Activity: identify learning objectives
+- Video tutorial production process overview
+    - Key steps
+    - Define terms
+    - Options for visuals
+- Creating a storyboard and writing for the web
+- Activity: start storyboarding
+
+Homework: Complete storyboard and script draft
+
+**Session Two: Storyboards and Audio Training**
+- Activity: Swap storyboards with a partner and give feedback
+- Training: Audio production in Camtasia
+- Activity: Practice audio recording
+
+Homework: Record video audio (w/ option to use Poorvu or Medical recording studio)
+
+**Session Three: Visuals: Standards and Best Practices**
+- Training: accessibility, branding, templates
+- Creating screencasts in Camtasia
+- Activity: create a screencast
+- Camtasia + Powerpoint
+- Activity: record a PowerPoint presentation in Camtasia
+
+Homework: Create any needed slides or image assets; collect ones for reuse if applicable
+
+**Session Four: Camtasia Timelines and Animation**
+- Training: editing timeline
+- Activity: play with adding multiple media objects to the timeline
+- Training: animation
+- Activity: make a basic animation
+- Training: captions
+- Activity: try adding captions to a section of audio
+
+**Session Five: Workshop**
+- Work on creating additional visual assets
+- Edit together audio and visuals
+
+Homework: Finish first draft of video
+
+**Session Six: Fine Tuning and Publishing**
+- Training: audio clean up tools, cursor effects
+- Activity: work time to clean up videos
+- Training: exporting from Camtasia, publishing workflows
+- Activity: publish exported videos
+
+End of program celebration & public screening of videos! 
+
+## Assessment
+
+Since summer 2022, 20 participants — including librarians, archivists, and library staff — across two cohorts have completed VTIP. Their completed videos include: “An Introduction to Data: An Introduction to OpenRefine for Humanities,” “How to Find the Science Behind Breaking Research News,” “One Step at a Time: Use One Relevant Paper to Find Additional Relevant Papers,” and “Introduction to Archival Research,” to name a few. From these examples, we can see demonstrated success to scale video tutorials for higher-order learning outcomes.
+
+From the most recent VTIP survey in summer 2023, approximately 73% of VTIP graduates (6 of 8 respondents from the 2022 cohort, and 5 of 7 from the 2023 cohort) have used the video they created during the program for teaching. Respondents reported that their videos have been emailed to students as pre-work in a flipped curriculum session, sent to coworkers as a training tool, published on research guides, and used in the classroom.
+
+Additionally, from the first cohort in summer 2022, approximately 63% (5 of 8 respondents) have created additional videos since the program concluded. One member of the 2023 cohort already has three more videos in production despite the program wrapping only two months ago. Not only have graduates used the video training, but 73% (6 of 8 from the 2022 cohort, and 5 of 7 from the 2023 cohort) indicate they have used other skills taught in the program (writing learning objectives, writing for the web, design and Yale branding best practices, accessibility best practices) in their work at Yale Library.
+
+## Media
+
+You can see videos created by program participants in [this Yale Media Library folder](https://yale.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=1920d2c5-c8f0-46b4-9c95-aefb0115b735).
+ 
