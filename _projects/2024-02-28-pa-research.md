@@ -15,30 +15,11 @@ Physician Associate students come from a range of educational, occupational, and
 
 ## Design and deployment
 
-Over the course of a year, I lead four sessions for the entire 40 student cohort and facilitate two rounds of six small group workshops. Over the years, they have taken place both in person and on Zoom. Many of the sessions have required pre-work to gauge student ability and confidence, as well as remind them of skills attained in the previous sessions. The sessions with the entire class feature polling, individual, and group activities to maintain engagement. The small group workshops alternate between mini lectures and structured activity time to have students walk away with concrete progress on their thesis projects. Every session is followed by a program-administered satisfaction survey and at the end of the year, there is a skills assessment. 
+Over the course of a year, I lead four sessions for the entire 40 student cohort and facilitate two rounds of six small group workshops. Over the years, they have taken place both in person and on Zoom. 
 
-Course: Research I
+Many of the sessions have required pre-work to gauge student ability and confidence, as well as remind them of skills attained in the previous sessions. The sessions with the entire class feature polling, individual, and group activities to maintain engagement. The small group workshops alternate between mini lectures and structured activity time to have students walk away with concrete progress on their thesis projects. Every session is followed by a program-administered satisfaction survey and at the end of the year, there is a skills assessment. 
 
-Session title: Epidemiological Thinking: Let’s Get Started
+For learning objectives, prework, and session outlines, head to the [series outline](https://drive.google.com/file/d/1wKZ0Mi31XgT85Of37dVZ8ZQBqE86O9YK/view?usp=sharing). Within that document, there are links to the prework experiences, in-class activities built out in Google Forms, and more. This [slide deck](https://docs.google.com/presentation/d/1PdzaTL8gg6fYVxma4PsGJVgBoZPz_lv50u4tfVOg4nQ/edit?usp=sharing) is representative of the visual style and tone throughout the series. 
 
-Timing: August, year one
 
-Duration: 30 minutes of 120-minute session, co-taught with faculty
-
-Learning objectives (for my portion): 
-- Describe steps in the evidence-based practice process
-- Formulate a well-built clinical question using PICO 
-- Prepare a basic search strategy
-- Review levels of evidence - unfiltered and filtered information
-
-Outline (for my portion):
-- Mini-lecture
-    - Levels of evidence
-    - Review PICO framework
-    - Types of questions/types of studies
-- Activity via PollEverywhere
-    - Identify PICO for given citation
-    - Write well-built clinical question given identified variables
-    - Identify type of question paper is asking
-    - Repeat with second, more complicated paper
 
