@@ -4,7 +4,6 @@ subtitle: I'm always open to meeting new potential collaborators and learning ab
 description: 
 featured_image: 
 ---
-Check out my work on ORCID and learn more about me on LinkedIn. 
-You can email me directly: <caitlinwolken@gmail.com>. 
+Send me a message: <caitlinwolken@gmail.com>. 
 
-{% include contact-form.html %}
+
