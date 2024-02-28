@@ -2,7 +2,7 @@
 title: 'Research Skills Curriculum for Physician Associate Students'
 subtitle: 'Instructor-led training series'
 date: 2021-06-09 00:00:00
-description: Teaching students the skills needed to complete a thesis 
+description: Teaching students the literature searching, synthesis, and management skills needed to complete a thesis. 
 featured_image: '/images/projects/pa.jpg'
 ---
 
@@ -21,5 +21,7 @@ Many of the sessions have required pre-work to gauge student ability and confide
 
 For learning objectives, prework, and session outlines, head to the [series outline](https://drive.google.com/file/d/1wKZ0Mi31XgT85Of37dVZ8ZQBqE86O9YK/view?usp=sharing). Within that document, there are links to the prework experiences, in-class activities built out in Google Forms, and more. This [slide deck](https://docs.google.com/presentation/d/1PdzaTL8gg6fYVxma4PsGJVgBoZPz_lv50u4tfVOg4nQ/edit?usp=sharing) is representative of the visual style and tone throughout the series. 
 
+## Collaboration with subject matter expert
 
+This series lives within a year-long course taught by faculty. I work with the professor to ensure that the examples within the sessions are highly relevant to what students are learning elsewhere in the curriculum at that moment. She shares her presentation materials on related topics so we can synchronize langauge for shared concepts. We have presented on our work together at Yale Medical Education Day and the national Physician Assistant Education Association annual meeting. 
 
