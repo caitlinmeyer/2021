@@ -3,7 +3,7 @@ title: 'Research Skills Curriculum for Physician Associate Students'
 subtitle: 'Instructor-led training series'
 date: 2021-06-09 00:00:00
 description: Teaching students the literature searching, synthesis, and management skills needed to complete a thesis. 
-featured_image: '/images/projects/pa.jpg'
+featured_image: '/images/projects/pa.png'
 ---
 
 
